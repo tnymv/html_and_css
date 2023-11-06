@@ -9,7 +9,7 @@ html,body{
 
 nav{
     display: flex;
-    background-color: rgb(41, 174, 70);
+    background-color: rgb(174, 52, 41);
     padding: 10px;
     color: white;
     justify-content: space-between;
@@ -62,7 +62,7 @@ nav li a:hover{
 }
 
 .main_button{
-    background-color:rgb(27, 139, 51);
+    background-color:rgb(139, 51, 27);
     width: 100%;
     padding: 10px;
     font-size: 12px;
@@ -73,5 +73,5 @@ nav li a:hover{
 }
 
 .main_button:hover{
-    background-color:rgb(36, 206, 73);
+    background-color:rgb(206, 73, 36);
 }

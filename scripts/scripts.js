@@ -1,7 +1,7 @@
 var a=1;
 var b=2;
 
-var nombre="Diana"
-var apellifo="de Leon"
+var name="Edwin"
+var last_name="Mejia"
 
-alert(nombre+" "+apellifo)
+alert(name+" "+last_name)
